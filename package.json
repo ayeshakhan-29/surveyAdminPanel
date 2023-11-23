@@ -1,7 +1,7 @@
 {
-  "name": "@coreui/coreui-free-react-admin-template",
+  "name": "admin panel",
   "version": "4.5.0",
-  "description": "CoreUI Free React Admin Template",
+  "description": "admin panel",
   "homepage": ".",
   "bugs": {
     "url": "https://github.com/coreui/coreui-free-react-admin-template/issues"
